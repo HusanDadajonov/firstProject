@@ -1,0 +1,26 @@
+.nav-page{
+  color:rgba(41, 80, 147, 1);
+}
+.tg-btn2{
+  color:rgba(41, 80, 147, 1);
+  ;
+}
+.tg-btn1{
+  color:rgba(255, 255, 255, 1);
+  background: linear-gradient(90deg, #1E96C8 15.07%, #37AEE2 85.96%);
+}
+.contents i {
+  color:rgba(118, 136, 164, 1);
+}
+.times{
+  color:rgba(118, 136, 164, 1);
+}
+.more-info-btn{
+  color:rgba(255, 255, 255, 1);
+  background-color:rgba(41, 80, 147, 1);
+}
+footer{
+  color:rgba(255, 255, 255, 1);
+  ;
+  background-color: rgba(41, 80, 147, 1);
+}
